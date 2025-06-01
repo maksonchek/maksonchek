@@ -66,7 +66,7 @@ _Апрель 2024 — Июнь 2025_
 - [Image Captioning (CNN+Attention+LSTM+ruCLIP)](https://github.com/maksonchek/RU_Image_Captioning)  
 - [AI Agent (GigaChat LLM)](https://github.com/maksonchek/Agent)  
 - [Window Detector (YOLO)](https://github.com/maksonchek/URBANHACK_Final)  
-
+- [LeetCode Tasks Solutions](https://github.com/maksonchek/LeetCode_Solutions)
 ---
 
 ### 🧗 Увлечения  
